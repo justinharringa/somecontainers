@@ -1,0 +1,3 @@
+FROM someregistry.tld/omundoebao
+
+RUN echo "O mundo é bão!"
