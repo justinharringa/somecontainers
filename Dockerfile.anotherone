@@ -1,3 +1,3 @@
-FROM grc.io/i/am/a/container/image
+FROM grc.io/i/am/a/container/image:42
 
 RUN echo "hello world"
