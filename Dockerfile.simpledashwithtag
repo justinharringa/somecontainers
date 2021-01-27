@@ -1,0 +1,3 @@
+FROM someregistry.com/the-dash:1
+
+RUN echo "test"
