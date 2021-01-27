@@ -1,0 +1,3 @@
+FROM gcr.io/some-project/some-folder/some-image:tag
+
+RUN echo "reproduce #191"
