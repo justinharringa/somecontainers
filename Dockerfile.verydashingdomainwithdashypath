@@ -1,3 +1,3 @@
-FROM this-registry-has-dashes.some-company.with-dashes.io/some-path/with-more-dashes/rv-python-runtime:1.0.0
+FROM this-registry-has-dashes.some-company.with-dashes.io/some-path/with-more-dashes/rv-python-runtime:42
 
 RUN echo "hello world"
