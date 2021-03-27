@@ -1,4 +1,4 @@
-FROM this-registry-has-dashes.somecompany.io/rv-python-runtime:1.0.0 AS build
+FROM this-registry-has-dashes.somecompany.io/rv-python-runtime:42 AS build
 
 FROM this-registry-has-dashes.some-company.with-dashes.io/rv-python-runtime:1.0.0
 
