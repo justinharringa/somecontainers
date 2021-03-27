@@ -1,3 +1,0 @@
-FROM this-registry-has-dashes.somecompany.io/rv-python-runtime:1.0.0
-
-RUN echo "hello world"
