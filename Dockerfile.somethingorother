@@ -1,3 +1,3 @@
-FROM someregistry.tld/omundoebao
+FROM someregistry.tld/omundoebao:42
 
 RUN echo "O mundo é bão!"
